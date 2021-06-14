@@ -1,10 +1,9 @@
-<h1 align="center"><a href="https://wecode101.com/laravel-8-validation" target="_blank">WeCode101 Laravel Validation </a></h1>
+<h1 align="center"><a href="https://wecode101.com/laravel_8_session_flash_message" target="_blank">WeCode101 Laravel session flash message </a></h1>
 
-This mini project shows how to validate your incoming data using Laravel 8.
-
-In this scenario we will create a "book" class and receive data "title" and "author" in order to store book records.
-
-Before you start ensure that you have a live database connection.
+In this example you will be shown how to use session helper to create success messages.
+A user will be inserted and if successful, a flash message will be displayed.  
+You can also use session facade to achieve the same results.
+Ensure that you are connected to a live database.
 
 ## Steps to run project
 
